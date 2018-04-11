@@ -904,6 +904,7 @@ es:
       product_not_deleted: El producto no pudo ser borrado
       variant_deleted: La Variante ha sido borrada
       variant_not_deleted: La Variante no pudo ser borrada
+    number: Número
     num_orders: "# Pedidos"
     on_hand: Disponible
     open: Abrir
@@ -1244,6 +1245,7 @@ es:
     show: Mostrar
     show_active: Mostrar Activo
     show_deleted: Mostrar Borrado
+    show_discontinued: Mostrar Discontinuo
     show_only_complete_orders: Mostrar solamente Pedidos completos
     show_only_considered_risky: Mostrar solamente Pedidos arriesgados
     show_rate_in_label: Mostrar tarifa en la etiqueta
