@@ -96,6 +96,7 @@ es:
         starts_at: Empieza en
         usage_limit: Limite de Uso
       spree/promotion_category:
+        code: Código
         name: Nombre
       spree/property:
         name: Nombre
@@ -1050,6 +1051,7 @@ es:
         description: Hace gratuitos todos los tipos de envío para el pedido
         name: Envíos Gratuitos
     promotion_actions: Acciones
+    promotion_category: Categoría de promoción
     promotion_form:
       match_policies:
         all: Cumple todas estas reglas
@@ -1148,6 +1150,9 @@ es:
     return: Volver
     return_authorization: Autorización para devolución
     return_authorization_reasons: Razones de Autorización de devolución
+    return_authorization_states:
+      authorized: Autorizado
+      canceled: Cancelado
     return_authorization_updated: Autorización para devolución actualizada
     return_authorizations: Autorizaciones para devolución
     return_item_inventory_unit_ineligible: Artículo inelegible para devolución
@@ -1168,6 +1173,7 @@ es:
     rma_credit: Crédito RMA
     rma_number: Número RMA
     rma_value: Valor RMA
+    role_id: Función
     roles: Funciones
     rules: Reglas
     safe: Seguro
@@ -1299,6 +1305,7 @@ es:
     states_required: Provincias requeridas
     status: Estatus
     stock:
+    stock_item_id: Producto en stock
     stock_location: Localización de stock
     stock_location_info: Info localización de stock
     stock_locations: Localizaciones de Stock
